@@ -14,3 +14,7 @@
 -  SQL. Yeah, `SQL`
 -  Other funny funny format I don't wanna focus on so much. `.csv` `.xlsx` `.txt`
 -  **Coming Soon:** `c++` `html` `DevOps`
+
+## Usage
+
+***This repo is for reference ONLY, and learning some basic stuff on quick tasks in campus. Feel free to TAKE A LOOK, but dont copy***
