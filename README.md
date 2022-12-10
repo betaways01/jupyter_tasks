@@ -1,6 +1,6 @@
 # **Simple Tasks Done For Fun**
 
-`Please do not copy without proper permission. Reporting will be done to those who copy without permission (You know what I mean).`
+***Please do not copy without proper permission. Reporting will be done to those who copy without permission (You know what I mean).***
 
 ## Languages Used
 
@@ -19,4 +19,4 @@
 
 ***This repo is for reference ONLY, and learning some basic stuff on quick tasks in campus. Feel free to TAKE A LOOK, but dont copy.***
 ## References
-***Special Thanks to: [Me](https://www.fiverr.com/share/Ka8z5Y)***
+***Special Thanks to: [Beta Ways](https://www.fiverr.com/share/Ka8z5Y) for these helpful and quality materials***
