@@ -19,4 +19,4 @@
 
 ***This repo is for reference ONLY, and learning some basic stuff on quick tasks in campus. Feel free to TAKE A LOOK, but dont copy.***
 ## References
-***Special Thanks to: (Me)[https://www.fiverr.com/share/Ka8z5Y]***
+***Special Thanks to: [Me](https://www.fiverr.com/share/Ka8z5Y)***
