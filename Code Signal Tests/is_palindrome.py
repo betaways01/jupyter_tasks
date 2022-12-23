@@ -10,3 +10,5 @@ def solution(inputString):
     palindrome = palindrome.lower()
     # Check if the string is equal to its reverse
     return palindrome == palindrome[::-1]
+
+
